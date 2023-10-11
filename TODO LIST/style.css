@@ -1,0 +1,23 @@
+.message {
+    display: inline;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* .messageDone {
+    text-decoration: line-through;
+} */
+
+.btnGroup {
+    display: flex;
+}
+
+.button {
+    margin: 20px 15px;
+    padding: 4px 8px;
+}
+
+.todoStatus {
+    font-style: italic;
+}
